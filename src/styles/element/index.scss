@@ -1,0 +1,4 @@
+/* 覆盖 Element Plus 的主题变量 */
+@use 'element-plus/theme-chalk/src/common/var.scss' with (
+  $colors: $colors
+); 

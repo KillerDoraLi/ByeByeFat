@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="900px" viewBox="0 0 1440 900" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>wbg@3x</title>
+    <g id="新三态" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="login/bg/全局背景">
+            <rect id="base" fill="#F2F3F5" x="0" y="0" width="1440" height="900"></rect>
+            <g id="4" opacity="0.35" transform="translate(1220.000000, 701.000000) rotate(-360.000000) translate(-1220.000000, -701.000000) translate(1080.000000, 582.000000)">
+                <g id="Group-17" transform="translate(141.000205, 105.000205) rotate(275.000000) translate(-141.000205, -105.000205) translate(129.000205, 93.000205)" fill="#BACAD9">
+                    <circle id="Oval-4" opacity="0.45" cx="11.1654079" cy="11.529273" r="11.5"></circle>
+                    <path d="M22.7150821,24.0707651 C22.7150821,17.4433481 17.5663567,12.0707651 11.2150821,12.0707651 C4.86380748,12.0707651 -0.284917899,17.4433481 -0.284917899,24.0707651 L22.7150821,24.0707651 Z" id="Oval-4" transform="translate(11.215082, 18.070765) scale(-1, -1) translate(-11.215082, -18.070765) "></path>
+                </g>
+                <circle id="Oval-5-Copy-6" fill="#CFDAE6" cx="202" cy="88" r="6"></circle>
+                <line x1="143" y1="88.9840387" x2="154.901087" y2="18.1033758" id="Path-17" stroke="#BACAD9" stroke-width="1.16666667"></line>
+                <line x1="17" y1="37" x2="127" y2="97" id="Path-18" stroke="#BACAD9" stroke-width="1.16666667"></line>
+                <polyline id="Path-19" stroke="#CFDAE6" stroke-width="1.16666667" points="143.066188 120.489495 174 232 38 147.7571 125.586501 111"></polyline>
+                <line x1="160" y1="100.395252" x2="195.419355" y2="89.6" id="Path-20" stroke="#E0B4B7" stroke-width="1.16666667" opacity="0.6"></line>
+                <line x1="205" y1="82" x2="238" y2="36" id="Path-24" stroke="#BACAD9" stroke-width="1.16666667"></line>
+                <line x1="266.554322" y1="132.234953" x2="206.586538" y2="90.5810811" id="Path-25" stroke="#CFDAE6" stroke-width="1.16666667"></line>
+                <circle id="Oval-5" fill="#C1D1E0" cx="157" cy="9" r="9"></circle>
+                <circle id="Oval-5-Copy" fill="#D3DDE6" cx="271" cy="136" r="9"></circle>
+                <circle id="Oval-5-Copy-3" fill="#C1D1E0" cx="39.5" cy="149.5" r="5.5"></circle>
+                <circle id="Oval-5-Copy-2" fill-opacity="0.6" fill="#D1DEED" cx="9" cy="34" r="9"></circle>
+                <circle id="Oval-5-Copy-4" fill-opacity="0.6" fill="#D1DEED" cx="244" cy="31" r="6"></circle>
+                <circle id="Oval-5-Copy-5" fill="#E0B4B7" cx="175.5" cy="233.5" r="5.5"></circle>
+            </g>
+            <g id="3" opacity="0.8" transform="translate(150.000000, 775.500000) rotate(-360.000000) translate(-150.000000, -775.500000) translate(80.000000, 731.000000)">
+                <circle id="Oval-11" fill="#CFDAE6" opacity="0.25" cx="64" cy="33" r="22"></circle>
+                <circle id="Oval-3" fill="#CFDAE6" opacity="0.599999964" cx="6" cy="14" r="5"></circle>
+                <path d="M38.5,88 C44.2989899,88 49,83.2989899 49,77.5 C49,71.7010101 44.2989899,67 38.5,67 C32.7010101,67 28,71.7010101 28,77.5 C28,83.2989899 32.7010101,88 38.5,88 Z" id="Oval-3-Copy" fill="#CFDAE6" opacity="0.45"></path>
+                <line x1="64.2728364" y1="33.7517274" x2="119.664168" y2="17" id="Path-12" stroke="#CFDAE6" stroke-width="1.73913043" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="42.4258652" y1="26.5149556" x2="8.12586523" y2="14.2371778" id="Path-16" stroke="#E0B4B7" stroke-width="0.702678964" opacity="0.7" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.405357899873153,2.108036953469981"></line>
+                <line x1="63.8786871" y1="33.0439709" x2="44" y2="69.327305" id="Path-15" stroke="#BACAD9" stroke-width="0.702678964" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.405357899873153,2.108036953469981"></line>
+                <g id="Group-17" transform="translate(126.864604, 13.716930) rotate(30.000000) translate(-126.864604, -13.716930) translate(117.299386, 4.555165)" fill="#CFDAE6">
+                    <circle id="Oval-4" opacity="0.45" cx="8.97048244" cy="9.01704197" r="9"></circle>
+                    <path d="M18.0180807,18.2271654 C18.0180807,13.2566026 13.9886435,9.22716539 9.01808073,9.22716539 C4.04751798,9.22716539 0.018080729,13.2566026 0.018080729,18.2271654 L18.0180807,18.2271654 Z" id="Oval-4" transform="translate(9.018081, 13.727165) scale(-1, -1) translate(-9.018081, -13.727165) "></path>
+                </g>
+            </g>
+            <g id="2" opacity="0.799999952" transform="translate(1332.500000, 112.000000) rotate(-360.000000) translate(-1332.500000, -112.000000) translate(1305.000000, 80.000000)">
+                <ellipse id="Oval-7" stroke="#CFDAE6" stroke-width="0.941176471" cx="44" cy="32.5" rx="11" ry="11.5"></ellipse>
+                <g id="Group-12" transform="translate(35.000000, 23.000000)" fill="#BACAD9">
+                    <circle id="Oval-7" opacity="0.45" cx="9.5" cy="8.5" r="8.5"></circle>
+                    <path d="M9,17 C13.418278,17 17,13.1944204 17,8.5 C17,3.80557963 13.418278,1.77635684e-13 9,1.77635684e-13 L9,17 Z" id="Oval-7"></path>
+                </g>
+                <line x1="35" y1="25" x2="6" y2="5" id="Path-2" stroke="#CFDAE6" stroke-width="0.941176471"></line>
+                <circle id="Oval" stroke="#CFDAE6" stroke-width="0.941176471" cx="3.5" cy="3.5" r="3.5"></circle>
+                <circle id="Oval-Copy" fill="#F7E1AD" cx="3" cy="61" r="3"></circle>
+                <line x1="35" y1="39" x2="5" y2="59" id="Path-10" stroke="#CFDAE6" stroke-width="0.941176471"></line>
+            </g>
+            <g id="1" transform="translate(172.500000, 157.000000) rotate(-360.000000) translate(-172.500000, -157.000000) translate(80.000000, 80.000000)">
+                <circle id="Oval-2" fill="#CFDAE6" opacity="0.25" cx="29" cy="29" r="29"></circle>
+                <circle id="Oval-2" fill="#CFDAE6" opacity="0.3" cx="29.5" cy="29.5" r="21.5"></circle>
+                <g id="编组-3" transform="translate(120.000000, 77.000000)">
+                    <g id="编组-2" transform="translate(0.000000, 14.000000)">
+                        <circle id="Oval-2-Copy" stroke="#CFDAE6" opacity="0.4" cx="23.5" cy="23.5" r="23.5"></circle>
+                        <g id="编组" transform="translate(17.000000, 17.000000)" fill="#E6A1A6">
+                            <circle id="Oval-2-Copy-2" opacity="0.45" cx="6.5" cy="6.5" r="6.5"></circle>
+                            <path d="M0,13 C3.3137085,13 6,10.0898509 6,6.5 C6,2.91014913 3.3137085,0 0,0 L0,13 Z" id="Oval-2-Copy-2" transform="translate(3.000000, 6.500000) scale(-1, 1) translate(-3.000000, -6.500000) "></path>
+                        </g>
+                    </g>
+                    <circle id="Oval-10" fill="#CFDAE6" cx="63.5" cy="38.5" r="1.5"></circle>
+                    <circle id="Oval-10-Copy-2" fill="#E0B4B7" opacity="0.35" cx="24.5" cy="75.5" r="1.5"></circle>
+                    <circle id="Oval-10-Copy" fill="#E0B4B7" opacity="0.35" cx="25" cy="2" r="2"></circle>
+                </g>
+                <circle id="Oval-2" fill="#BACAD9" opacity="0.5" cx="29" cy="29" r="11"></circle>
+                <path d="M29,40 L29,18 C22.9248678,18 18,22.9248678 18,29 C18,35.0751322 22.9248678,40 29,40 Z" id="Oval-2" fill="#BACAD9"></path>
+                <g id="Group-9" opacity="0.45" transform="translate(172.000000, 131.000000)"></g>
+                <line x1="29.1312055" y1="29.5014713" x2="123.568168" y2="100.74607" id="Path-11" stroke="#CFDAE6" opacity="0.8"></line>
+            </g>
+        </g>
+    </g>
+</svg>
