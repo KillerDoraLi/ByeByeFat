@@ -2,7 +2,7 @@
   <div class="common-layout">
     <el-container>
       <el-header class="common-header">
-        <h3>姐妹减肥计划</h3>
+        <h3>ByeByeFat</h3>
         <div class="header-right">
           <el-dropdown @command="handleCommand">
             <span class="el-dropdown-link">

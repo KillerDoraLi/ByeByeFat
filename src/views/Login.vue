@@ -3,7 +3,7 @@
     <div class="login-container">
       <!-- 左侧白色区域 -->
       <div class="login-left">
-        <h1 class="title">姐妹减肥计划</h1>
+        <h1 class="title">ByeByeFat</h1>
         <h2 class="login-title">登录</h2>
         <p class="subtitle">
           还没有账号？ <a href="/#/register" class="link">注册</a>
