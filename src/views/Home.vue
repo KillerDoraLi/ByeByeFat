@@ -7,6 +7,18 @@
       </el-button>
     </div>
     <Table />
+    <!-- 
+    <div class="progress-container">
+      <div class="progress-card">
+        <Activity
+          :data="{
+            Shawee: getPersonData('Shawee'),
+            Aiving: getPersonData('Aiving'),
+            Dora: getPersonData('Dora'),
+          }"
+        />
+      </div>
+    </div> -->
 
     <div class="charts-container">
       <div class="chart-card">
@@ -31,7 +43,6 @@
           :data="getPersonData('Aiving').data"
           :goal="getPersonData('Aiving').goal"
         />
-        <!-- <HeatMap :name="name" :data="getWeightChanges(name)" /> -->
       </div>
       <div class="chart-content">
         <HeatMap name="Aiving" :data="getWeightChanges('Aiving')" />
@@ -60,6 +71,7 @@ import LineChart from '@/views/components/LineChart.vue';
 import HeatMap from '@/views/components/HeatMap.vue';
 import Table from '@/views/components/Table.vue';
 import Carousel from '@/views/components/Carousel.vue';
+// import Activity from '@/views/components/Activity.vue';
 import { ElMessage } from 'element-plus';
 import { ElLoading } from 'element-plus';
 
@@ -116,6 +128,17 @@ const exportPDF = async () => {
   top: 20px;
   right: 20px;
   z-index: 10;
+}
+
+.progress-container {
+  margin: 20px 0;
+}
+
+.progress-card {
+  background: white;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.1);
 }
 
 .charts-container {

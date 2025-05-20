@@ -20,6 +20,7 @@ export const useWeightStore = defineStore('weight', {
         { date: '05-17', name: 'Aiving', weight: 56.4 * 2 },
         { date: '05-18', name: 'Aiving', weight: 56.7 * 2 },
         { date: '05-19', name: 'Aiving', weight: 56.4 * 2 },
+        { date: '05-20', name: 'Aiving', weight: 56.7 * 2 },
       ],
     },
     dora: {
@@ -40,6 +41,7 @@ export const useWeightStore = defineStore('weight', {
         { date: '05-17', name: 'Dora', weight: 50.6 * 2 },
         { date: '05-18', name: 'Dora', weight: 50.6 * 2 },
         { date: '05-19', name: 'Dora', weight: 50.9 * 2 },
+        { date: '05-20', name: 'Dora', weight: 50.9 * 2 },
       ],
     },
     shawee: {
@@ -60,6 +62,7 @@ export const useWeightStore = defineStore('weight', {
         { date: '05-17', name: 'Shawee', weight: 53.8 * 2 },
         { date: '05-18', name: 'Shawee', weight: 53.9 * 2 },
         { date: '05-19', name: 'Shawee', weight: 53.7 * 2 },
+        { date: '05-20', name: 'Shawee', weight: 53.7 * 2 },
       ],
     },
   }),
