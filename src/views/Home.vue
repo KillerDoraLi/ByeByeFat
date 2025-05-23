@@ -8,7 +8,7 @@
     </div>
     <Table />
 
-    <div class="progress-container">
+    <!-- <div class="progress-container">
       <div class="progress-card">
         <Activity
           :data="{
@@ -18,7 +18,7 @@
           }"
         />
       </div>
-    </div>
+    </div> -->
 
     <div class="charts-container">
       <div class="chart-card">
