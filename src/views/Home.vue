@@ -7,7 +7,7 @@
       </el-button>
     </div>
     <Table />
-    <!-- 
+
     <div class="progress-container">
       <div class="progress-card">
         <Activity
@@ -18,7 +18,7 @@
           }"
         />
       </div>
-    </div> -->
+    </div>
 
     <div class="charts-container">
       <div class="chart-card">
@@ -71,7 +71,7 @@ import LineChart from '@/views/components/LineChart.vue';
 import HeatMap from '@/views/components/HeatMap.vue';
 import Table from '@/views/components/Table.vue';
 import Carousel from '@/views/components/Carousel.vue';
-// import Activity from '@/views/components/Activity.vue';
+import Activity from '@/views/components/Activity.vue';
 import { ElMessage } from 'element-plus';
 import { ElLoading } from 'element-plus';
 
@@ -131,6 +131,9 @@ const exportPDF = async () => {
 }
 
 .progress-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
   margin: 20px 0;
 }
 
